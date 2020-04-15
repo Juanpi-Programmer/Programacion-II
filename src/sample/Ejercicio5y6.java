@@ -21,25 +21,25 @@ public class Ejercicio5y6 {
 
         if(num1>num2){
             int dif = num1-num2;
-            if(dif>=multiplo){
+            if(dif <= multiplo){
+                System.out.println("numero no permitido");
+            }else{
                 for (int i=num2; i <= num1; i++){
                     if(i%multiplo!= 0){
                         System.out.println(i);
                     }
                 }
-            }else{
-                System.out.println("numero no permitido");
             }
         }else{
             int dif = num2-num1;
-            if(dif>=multiplo){
+            if(dif <= multiplo){
+                System.out.println("numero no permitido");
+            }else{
                 for (int i=num1; i <= num2; i++){
                     if(i%multiplo!= 0){
                         System.out.println(i);
                     }
                 }
-            }else{
-                System.out.println("numero no permitido");
             }
         }
     }

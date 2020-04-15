@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="" />
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/Ejercicio5y6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/Ejercicio5y6.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,8 +67,12 @@
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectId" id="1aVTu47aND47Ih1e15fU9IVj7QM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectReloadState">
     <option name="STATE" value="0" />
   </component>
@@ -86,7 +94,7 @@
     <property name="last_opened_file_path" value="$USER_HOME$/OneDrive/Ceil - 2019/Requerimientos de Software/Profe Nuevo/Primer Clase/RectanguloApp" />
     <property name="recentsLimit" value="5" />
   </component>
-  <component name="RunManager" selected="Application.Ejercicio9">
+  <component name="RunManager" selected="Application.Ejercicio5y6">
     <configuration default="true" type="Applet" factoryName="Applet">
       <module name="" />
       <option name="MAIN_CLASS_NAME" />
@@ -245,9 +253,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ejercicio5y6" />
         <item itemvalue="Application.Ejercicio9" />
         <item itemvalue="Application.Ejercicio7y8" />
-        <item itemvalue="Application.Ejercicio5y6" />
         <item itemvalue="Application.Ejercicio4" />
         <item itemvalue="Application.Ejercicio3" />
       </list>
@@ -283,21 +291,25 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2660" y="295" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1586820919356" />
-    <state width="1877" height="294" key="GridCell.Tab.0.bottom" timestamp="1586979084413">
+    <state width="1877" height="294" key="GridCell.Tab.0.bottom" timestamp="1586979785389">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="294" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1586979084413" />
-    <state width="1877" height="294" key="GridCell.Tab.0.center" timestamp="1586979084413">
+    <state width="1877" height="294" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1586979785389" />
+    <state width="1877" height="294" key="GridCell.Tab.0.center" timestamp="1586979785385">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="294" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1586979084413" />
-    <state width="1877" height="294" key="GridCell.Tab.0.left" timestamp="1586979084413">
+    <state width="1877" height="294" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1586979785385" />
+    <state width="1877" height="294" key="GridCell.Tab.0.left" timestamp="1586979785385">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="294" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1586979084413" />
-    <state width="1877" height="294" key="GridCell.Tab.0.right" timestamp="1586979084413">
+    <state width="1877" height="294" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1586979785385" />
+    <state width="1877" height="294" key="GridCell.Tab.0.right" timestamp="1586979785389">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="294" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1586979084413" />
+    <state width="1877" height="294" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1586979785389" />
+    <state x="2576" y="364" key="com.intellij.ide.util.TipDialog" timestamp="1586979206615">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2576" y="364" key="com.intellij.ide.util.TipDialog/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1586979206615" />
   </component>
 </project>
