@@ -1,4 +1,4 @@
-package sample;
+package semana2;
 
 import java.util.Scanner;
 

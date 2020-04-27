@@ -1,11 +1,11 @@
-package sample;
-
+package semana2;
 import java.util.Scanner;
 
-public class Ejercicio4 {
+public class Ejercicio3 {
     public static void main(String[] args) {
-        System.out.println("Actividad 4");
-        System.out.println("Escribir un programa similar al anterior, pero que no imprima los múltiplos de 5");
+        System.out.println("Actividad 3");
+        System.out.println("Escribir un programa que, modificando el anterior, imprima los números enteros entre ");
+        System.out.println("los dos ingresados siempre de menor a mayor, independientemente del orden en que los ingresó el usuario.");
 
         int num1,num2;
         Scanner entrada = new Scanner(System.in);
@@ -18,16 +18,13 @@ public class Ejercicio4 {
 
         if(num1>num2){
             for (int i=num2; i <= num1; i++){
-                if(i%5!= 0){
-                    System.out.println(i);
-                }
+                System.out.println(i);
             }
         }else{
             for (int i=num1; i <= num2; i++){
-                if(i%5!= 0){
-                    System.out.println(i);
-                }
+                System.out.println(i);
             }
         }
+
     }
 }
