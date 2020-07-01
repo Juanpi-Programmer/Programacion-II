@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -85,7 +88,9 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectId" id="1aVTu47aND47Ih1e15fU9IVj7QM" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectReloadState">
     <option name="STATE" value="0" />
   </component>
@@ -111,7 +116,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="recentsLimit" value="5" />
   </component>
-  <component name="RunManager" selected="Application.Foro_1_Aleatorio">
+  <component name="RunManager" selected="Application.Ejercicio2">
     <configuration default="true" type="Applet" factoryName="Applet">
       <module name="" />
       <option name="MAIN_CLASS_NAME" />
@@ -136,6 +141,34 @@
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
       <Host>localhost</Host>
       <Port>5050</Port>
+    </configuration>
+    <configuration name="Ejercicio1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Clase_02_Foro2.Ejercicio1" />
+      <module name="semana2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Clase_02_Foro2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ejercicio2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Clase_02_Foro2.Ejercicio2" />
+      <module name="semana2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Clase_02_Foro2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="Foro_1" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="vectoresEnJava.Foro_1" />
@@ -220,9 +253,13 @@
     <list>
       <item itemvalue="Application.Foro_1" />
       <item itemvalue="Application.Foro_1_Aleatorio" />
+      <item itemvalue="Application.Ejercicio1" />
+      <item itemvalue="Application.Ejercicio2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ejercicio2" />
+        <item itemvalue="Application.Ejercicio1" />
         <item itemvalue="Application.Foro_1_Aleatorio" />
       </list>
     </recent_temporary>
@@ -266,10 +303,10 @@
     </state>
     <state x="443" y="141" key="#Project_Structure/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1593565670517" />
     <state x="2363" y="117" width="1024" height="852" key="#Project_Structure/0.27.1920.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1593561410197" />
-    <state x="418" y="220" width="1084" height="717" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593565681822">
+    <state x="418" y="220" width="1084" height="717" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593575770561">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="418" y="220" width="1084" height="717" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1593565681822" />
+    <state x="418" y="220" width="1084" height="717" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1593575770561" />
     <state x="2338" y="198" width="1084" height="710" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1593562839354" />
     <state x="2610" y="287" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586821338127">
       <screen x="1920" y="0" width="1920" height="1080" />
@@ -279,46 +316,46 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2660" y="295" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1586820919356" />
-    <state width="1874" height="320" key="GridCell.Tab.0.bottom" timestamp="1593573586544">
+    <state width="1874" height="320" key="GridCell.Tab.0.bottom" timestamp="1593577721277">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state width="1877" height="294" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1587784993850" />
     <state width="1877" height="294" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1587783806820" />
-    <state width="1874" height="320" key="GridCell.Tab.0.bottom/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1593573586544" />
-    <state width="1874" height="320" key="GridCell.Tab.0.center" timestamp="1593573586544">
+    <state width="1874" height="320" key="GridCell.Tab.0.bottom/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1593577721277" />
+    <state width="1874" height="320" key="GridCell.Tab.0.center" timestamp="1593577721277">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state width="1877" height="294" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1587784993850" />
     <state width="1877" height="294" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1587783806820" />
-    <state width="1874" height="320" key="GridCell.Tab.0.center/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1593573586544" />
-    <state width="1874" height="320" key="GridCell.Tab.0.left" timestamp="1593573586544">
+    <state width="1874" height="320" key="GridCell.Tab.0.center/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1593577721277" />
+    <state width="1874" height="320" key="GridCell.Tab.0.left" timestamp="1593577721276">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state width="1877" height="294" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1587784993850" />
     <state width="1877" height="294" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1587783806820" />
-    <state width="1874" height="320" key="GridCell.Tab.0.left/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1593573586544" />
-    <state width="1874" height="320" key="GridCell.Tab.0.right" timestamp="1593573586544">
+    <state width="1874" height="320" key="GridCell.Tab.0.left/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1593577721276" />
+    <state width="1874" height="320" key="GridCell.Tab.0.right" timestamp="1593577721277">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state width="1877" height="294" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1587784993850" />
     <state width="1877" height="294" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1587783806820" />
-    <state width="1874" height="320" key="GridCell.Tab.0.right/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1593573586544" />
-    <state width="1874" height="320" key="GridCell.Tab.1.bottom" timestamp="1593573586433">
+    <state width="1874" height="320" key="GridCell.Tab.0.right/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1593577721277" />
+    <state width="1874" height="320" key="GridCell.Tab.1.bottom" timestamp="1593577721124">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1874" height="320" key="GridCell.Tab.1.bottom/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1593573586433" />
-    <state width="1874" height="320" key="GridCell.Tab.1.center" timestamp="1593573586433">
+    <state width="1874" height="320" key="GridCell.Tab.1.bottom/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1593577721124" />
+    <state width="1874" height="320" key="GridCell.Tab.1.center" timestamp="1593577721124">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1874" height="320" key="GridCell.Tab.1.center/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1593573586433" />
-    <state width="1874" height="320" key="GridCell.Tab.1.left" timestamp="1593573586433">
+    <state width="1874" height="320" key="GridCell.Tab.1.center/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1593577721124" />
+    <state width="1874" height="320" key="GridCell.Tab.1.left" timestamp="1593577721124">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1874" height="320" key="GridCell.Tab.1.left/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1593573586433" />
-    <state width="1874" height="320" key="GridCell.Tab.1.right" timestamp="1593573586433">
+    <state width="1874" height="320" key="GridCell.Tab.1.left/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1593577721124" />
+    <state width="1874" height="320" key="GridCell.Tab.1.right" timestamp="1593577721124">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1874" height="320" key="GridCell.Tab.1.right/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1593573586433" />
+    <state width="1874" height="320" key="GridCell.Tab.1.right/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1593577721124" />
     <state x="656" y="364" key="com.intellij.ide.util.TipDialog" timestamp="1587959814993">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -328,8 +365,18 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2262" y="242" key="new project wizard/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1587779697290" />
+    <state x="623" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1593576375092">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="623" y="259" width="672" height="678" key="search.everywhere.popup/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1593576375092" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/semanaProgramacion$Ejercicio2.ic" NAME="Ejercicio2 Coverage Results" MODIFIED="1593577095677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Clase_02_Foro2.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/semanaProgramacion$Ejercicio1.ic" NAME="Ejercicio1 Coverage Results" MODIFIED="1593574802974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Clase_02_Foro2.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/semanaProgramacion$Foro_1_Aleatorio.ic" NAME="Foro_1_Aleatorio Coverage Results" MODIFIED="1593573566841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>vectoresEnJava.*</FILTER>
     </SUITE>
