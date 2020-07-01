@@ -25,7 +25,7 @@ public class Ejercicio2 {
                             bandera = true;
                             break;
                         }else{
-                            message = "Contraseña Incorrecto";
+                            message = "Contraseña Incorrecta";
                             break;
                         }
                     }else{
@@ -36,7 +36,7 @@ public class Ejercicio2 {
                     System.out.println("********* " + message + " +++++++");
                 }
             }else{
-                message = "COMPLETE LOS CAMPOS";
+                System.out.println("COMPLETE LOS CAMPOS");
             }
         }
     }
