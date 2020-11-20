@@ -1,4 +1,4 @@
-package Clase03.Clase03_Foro1;
+package Clase03.Clase03_Foro1y2;
 
 public class Escuela {
     private String nombre, nivel;
@@ -22,6 +22,10 @@ public class Escuela {
         return nombre;
     }
 
+    public boolean equals(Object o){
+        Escuela escuela = (Escuela) o;
+        return (escuela.nombre == nombre) && (escuela.nivel == nivel);
+    }
     public String toString() {
         return " nombre: " + nombre + " nivel: " + nivel;
     }

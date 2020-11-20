@@ -1,4 +1,4 @@
-package Clase03.Clase03_Foro1;
+package Clase03.Clase03_Foro1y2;
 
 public class Grado extends Escuela{
     private String nom;
