@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Controlador {
     public static void main(String[] args) {
 
-        Libreta miLibretita = new Libreta(4);
+        Libreta miLibretita = new Libreta();
         Scanner input = new Scanner(System.in);
         String nombre;
         int opcion;
