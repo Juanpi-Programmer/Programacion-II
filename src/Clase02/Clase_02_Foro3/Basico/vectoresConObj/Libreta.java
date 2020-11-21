@@ -70,7 +70,11 @@ public class Libreta {
     }
 
     public void eliminarPosition(int lugar) {
-        nombresArrayList.remove(lugar);
-        System.out.println("Posicion: " + lugar + " Eliminado correctamente");
+        try{
+            nombresArrayList.remove(lugar);
+            System.out.println("Posicion: " + lugar + " Eliminado correctamente");
+        }catch (IndexOutOfBoundsException e){
+            System.out.println("Se ha producido una excepción! -----> " + e);
+        }
     }
 }
